@@ -6,6 +6,10 @@ my wife name is sneha
 my wife is from ugar
 jamkhandi is everything 
 i have 3 siblings
+<<<<<<< HEAD
 
  deepa got married to rahul
  roopa is working in IBM
+=======
+roopa doing good
+>>>>>>> f8f1f6935a95603130d7e9196d3c719015e60cc1
